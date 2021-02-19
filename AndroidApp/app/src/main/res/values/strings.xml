@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Level Regulator</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="state_none">None</string>
+    <string name="state_scanning">Scanning</string>
+    <string name="state_connecting">Connecting</string>
+    <string name="state_connected">Connected</string>
+    <string name="state_disconnected">Disconnected</string>
+    <string name="rear_up_and_down">Rear up and down</string>
+    <string name="front_up_and_down">Front up and down</string>
+    <string name="left_up_and_down">Left up and down</string>
+    <string name="right_up_and_down">Right up and down</string>
+    <string name="front_and_rear">Front and Rear</string>
+    <string name="left_and_right">Left and right</string>
+    <string name="save_center_adjust_button">save center adjust button</string>
+    <string name="save_current_as_center">Save Current as Center</string>
+    <string name="front_rear_swap">front rear swap</string>
+    <string name="asix_swap_button">asix swap button</string>
+    <string name="left_right_swap_button">left right swap button</string>
+    <string name="reset">Reset</string>
+</resources>
